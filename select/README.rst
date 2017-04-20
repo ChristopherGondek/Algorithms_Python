@@ -3,7 +3,7 @@
 Select
 ======
 
-Various algorithms implemented in Python
-----------------------------------------
+Efficiently select the k-smallest element
+-----------------------------------------
 
 For details please view README.ipynb
