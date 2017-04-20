@@ -1,6 +1,6 @@
 
 ======
-SELECT
+Select
 ======
 
 Various algorithms implemented in Python
