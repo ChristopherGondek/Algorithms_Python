@@ -1,0 +1,9 @@
+
+# Directory-based project format:
+.idea
+
+# Ignore TMP Files
+*~
+
+# Ignore Byte Code
+*.pyc
